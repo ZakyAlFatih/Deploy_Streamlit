@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Ini title")
+st.title("Ini titless")
 st.text("sdssdsdsds")
 
 nama=st.text_input("Masukan nama","nama anda")
